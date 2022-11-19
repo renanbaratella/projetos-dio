@@ -1,6 +1,6 @@
-.settings/
-bin/
-.git/
+.settings
+bin
+.git
 .classpath
 .project
-gitignore
+.gitignore
